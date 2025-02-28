@@ -1,0 +1,2 @@
+# supertrunfo
+Jogo de supertrunfo
